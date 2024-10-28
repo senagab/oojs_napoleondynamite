@@ -4,7 +4,7 @@
 
 ## Proposta
 
-### Este é um exercício de Javascript
+Este é um exercício de Javascript.
 
 O exercício consiste em manipular dummy data com o intuito de praticar conceitos de Encapsulamento, Herança e Polimorfismo.
 
