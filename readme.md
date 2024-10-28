@@ -2,7 +2,9 @@
 
 ![Screenshot Home](https://github.com/senagab/servidores-estaticos/blob/main/napoleon-code-2.png)
 
-## Este é um exercicio de javascript
+## Proposta
+
+### Este é um exercício de Javascript
 
 O exercício consiste em manipular dummy data com o intuito de praticar conceitos de Encapsulamento, Herança e Polimorfismo.
 
