@@ -1,5 +1,7 @@
 # Napoleon Dynamite
 
+![Screenshot Home](https://github.com/senagab/servidores-estaticos/blob/main/napoleon.jpg)
+
 ## Este é um exercicio de javascript
 
 O exercício consiste em manipular dummy data com o intuito de praticar conceitos de Encapsulamento, Herança e Polimorfismo.
