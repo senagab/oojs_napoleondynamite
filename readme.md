@@ -1,6 +1,6 @@
 # Napoleon Dynamite
 
-![Screenshot Home](https://github.com/senagab/servidores-estaticos/blob/main/napoleon.jpg)
+![Screenshot Home](https://github.com/senagab/servidores-estaticos/blob/main/napoleon-code.png)
 
 ## Este é um exercicio de javascript
 
